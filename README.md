@@ -1,6 +1,6 @@
 # CODING - Laboratórios 1 a 5
 
-Turma: CODING
+Turma: ADS 2°A MANHÃ - CODING
 
 ## Equipe
 - Davi Sousa Sena – @daviss011
